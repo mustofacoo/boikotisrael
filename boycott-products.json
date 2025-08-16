@@ -1,15 +1,11 @@
 {
   "metadata": {
     "version": "1.0.0",
-    "last_updated": "2025-08-14",
-    "total_products": 435,
+    "last_updated": "2025-08-16",
+    "total_products": 775,
     "description": "Database produk yang perlu dihindari berdasarkan berbagai pertimbangan etis, lingkungan, dan sosial"
   },
   "products": [
-    {
-      "name": "Indomie",
-      "description": "Lebih baik dihindari, penyintik dana 40 Miliar ke KFC"
-    },
     {
       "name": "King of Dates",
       "description": "-"
@@ -35,19 +31,7 @@
       "description": "-"
     },
     {
-      "name": "Nescafe",
-      "description": "-"
-    },
-    {
-      "name": "Milo",
-      "description": "-"
-    },
-    {
       "name": "Nestle",
-      "description": "-"
-    },
-    {
-      "name": "Gold Corn Flakes",
       "description": "-"
     },
     {
@@ -64,10 +48,6 @@
     },
     {
       "name": "Minute Maid",
-      "description": "-"
-    },
-    {
-      "name": "Kitkat",
       "description": "-"
     },
     {
@@ -95,39 +75,11 @@
       "description": "-"
     },
     {
-      "name": "Lipton",
-      "description": "-"
-    },
-    {
-      "name": "Sariwangi",
-      "description": "-"
-    },
-    {
-      "name": "Sunlight",
-      "description": "-"
-    },
-    {
-      "name": "Maggi",
-      "description": "-"
-    },
-    {
-      "name": "Royco",
-      "description": "-"
-    },
-    {
       "name": "Walls",
       "description": "-"
     },
     {
       "name": "L’Oreal",
-      "description": "-"
-    },
-    {
-      "name": "Vaseline",
-      "description": "-"
-    },
-    {
-      "name": "St. Ives",
       "description": "-"
     },
     {
@@ -144,18 +96,6 @@
     },
     {
       "name": "Love Beauty & Planet",
-      "description": "-"
-    },
-    {
-      "name": "Dancow",
-      "description": "-"
-    },
-    {
-      "name": "Wipol",
-      "description": "-"
-    },
-    {
-      "name": "Bear Brand",
       "description": "-"
     },
     {
@@ -335,23 +275,7 @@
       "description": "-"
     },
     {
-      "name": "rinso",
-      "description": "-"
-    },
-    {
       "name": "lifeboy",
-      "description": "-"
-    },
-    {
-      "name": "clear",
-      "description": "-"
-    },
-    {
-      "name": "pepsodent",
-      "description": "-"
-    },
-    {
-      "name": "rexona",
       "description": "-"
     },
     {
@@ -363,19 +287,7 @@
       "description": "-"
     },
     {
-      "name": "bango",
-      "description": "-"
-    },
-    {
       "name": "blueband",
-      "description": "-"
-    },
-    {
-      "name": "citra",
-      "description": "-"
-    },
-    {
-      "name": "axe",
       "description": "-"
     },
     {
@@ -383,43 +295,7 @@
       "description": "-"
     },
     {
-      "name": "dove",
-      "description": "-"
-    },
-    {
-      "name": "glow & lovely",
-      "description": "-"
-    },
-    {
-      "name": "lux",
-      "description": "-"
-    },
-    {
       "name": "sunslik",
-      "description": "-"
-    },
-    {
-      "name": "zwitsal",
-      "description": "-"
-    },
-    {
-      "name": "cornetto",
-      "description": "-"
-    },
-    {
-      "name": "knorr",
-      "description": "-"
-    },
-    {
-      "name": "magnum",
-      "description": "-"
-    },
-    {
-      "name": "paddle pop",
-      "description": "-"
-    },
-    {
-      "name": "molto",
       "description": "-"
     },
     {
@@ -427,35 +303,7 @@
       "description": "-"
     },
     {
-      "name": "feast",
-      "description": "-"
-    },
-    {
-      "name": "jawara",
-      "description": "-"
-    },
-    {
-      "name": "cif",
-      "description": "-"
-    },
-    {
-      "name": "seru",
-      "description": "-"
-    },
-    {
       "name": "tresseme",
-      "description": "-"
-    },
-    {
-      "name": "the vegetarian butcher",
-      "description": "-"
-    },
-    {
-      "name": "vixal",
-      "description": "-"
-    },
-    {
-      "name": "populaire",
       "description": "-"
     },
     {
@@ -467,27 +315,11 @@
       "description": "-"
     },
     {
-      "name": "simple",
-      "description": "-"
-    },
-    {
       "name": "st.ives",
       "description": "-"
     },
     {
       "name": "supermie",
-      "description": "-"
-    },
-    {
-      "name": "sarimi",
-      "description": "-"
-    },
-    {
-      "name": "pop mie",
-      "description": "-"
-    },
-    {
-      "name": "pop bihun",
       "description": "-"
     },
     {
@@ -499,18 +331,6 @@
       "description": "-"
     },
     {
-      "name": "chitato",
-      "description": "-"
-    },
-    {
-      "name": "qtela",
-      "description": "-"
-    },
-    {
-      "name": "chiki",
-      "description": "-"
-    },
-    {
       "name": "jetz",
       "description": "-"
     },
@@ -519,23 +339,11 @@
       "description": "-"
     },
     {
-      "name": "trenz",
-      "description": "-"
-    },
-    {
       "name": "bim-bim",
       "description": "-"
     },
     {
       "name": "wonderland",
-      "description": "-"
-    },
-    {
-      "name": "indomilk",
-      "description": "-"
-    },
-    {
-      "name": "cap enaak",
       "description": "-"
     },
     {
@@ -567,15 +375,7 @@
       "description": "-"
     },
     {
-      "name": "ichi ocha",
-      "description": "-"
-    },
-    {
       "name": "chafella",
-      "description": "-"
-    },
-    {
-      "name": "club",
       "description": "-"
     },
     {
@@ -592,10 +392,6 @@
     },
     {
       "name": "tropicana twistter",
-      "description": "-"
-    },
-    {
-      "name": "bimoli",
       "description": "-"
     },
     {
@@ -620,14 +416,6 @@
     },
     {
       "name": "pasta lafonte",
-      "description": "-"
-    },
-    {
-      "name": "promina",
-      "description": "-"
-    },
-    {
-      "name": "sun",
       "description": "-"
     },
     {
@@ -843,14 +631,6 @@
       "description": "-"
     },
     {
-      "name": "cadum",
-      "description": "-"
-    },
-    {
-      "name": "verisure",
-      "description": "-"
-    },
-    {
       "name": "redhat",
       "description": "-"
     },
@@ -860,10 +640,6 @@
     },
     {
       "name": "sical",
-      "description": "-"
-    },
-    {
-      "name": "buondi",
       "description": "-"
     },
     {
@@ -980,10 +756,6 @@
     },
     {
       "name": "petrobras",
-      "description": "-"
-    },
-    {
-      "name": "Bp",
       "description": "-"
     },
     {
@@ -1741,6 +1513,1594 @@
     {
       "name": "Lewis cellars",
       "description": "-"
+    },
+    {
+      "name": "Jordan river",
+      "description": "."
+    },
+    {
+      "name": "King solomon",
+      "description": "."
+    },
+    {
+      "name": "hadiklaim",
+      "description": "."
+    },
+    {
+      "name": "carmen agrexco",
+      "description": "."
+    },
+    {
+      "name": "medjool plus",
+      "description": "."
+    },
+    {
+      "name": "disert Diamond",
+      "description": "."
+    },
+    {
+      "name": "mehadrin",
+      "description": "."
+    },
+    {
+      "name": "star dates",
+      "description": "."
+    },
+    {
+      "name": "vancy medjoul",
+      "description": "."
+    },
+    {
+      "name": "shams",
+      "description": "."
+    },
+    {
+      "name": "dates bmedjoul",
+      "description": "."
+    },
+    {
+      "name": "bonbon",
+      "description": "."
+    },
+    {
+      "name": "delilah",
+      "description": "."
+    },
+    {
+      "name": "urban platter",
+      "description": "."
+    },
+    {
+      "name": "Anna and sarah",
+      "description": "."
+    },
+    {
+      "name": "food to live",
+      "description": "."
+    },
+    {
+      "name": "sincerely nuts",
+      "description": "."
+    },
+    {
+      "name": "galilee",
+      "description": "."
+    },
+    {
+      "name": "ventura",
+      "description": "."
+    },
+    {
+      "name": "nama fresh",
+      "description": "."
+    },
+    {
+      "name": "karsten farm",
+      "description": "."
+    },
+    {
+      "name": "royal treasure",
+      "description": "."
+    },
+    {
+      "name": "tamara bari",
+      "description": "."
+    },
+    {
+      "name": "la palma",
+      "description": "."
+    },
+    {
+      "name": "waitrose",
+      "description": "."
+    },
+    {
+      "name": "bomaja",
+      "description": "."
+    },
+    {
+      "name": "bonbierra",
+      "description": "."
+    },
+    {
+      "name": "SGM",
+      "description": "."
+    },
+    {
+      "name": "bebelac",
+      "description": "."
+    },
+    {
+      "name": "lactamil",
+      "description": "."
+    },
+    {
+      "name": "nutrion royal",
+      "description": "."
+    },
+    {
+      "name": "Achva",
+      "description": "."
+    },
+    {
+      "name": "Actimel",
+      "description": "."
+    },
+    {
+      "name": "Activia",
+      "description": "."
+    },
+    {
+      "name": "Aero",
+      "description": "."
+    },
+    {
+      "name": "Airbnb",
+      "description": "."
+    },
+    {
+      "name": "Alpro",
+      "description": "."
+    },
+    {
+      "name": "Always",
+      "description": "."
+    },
+    {
+      "name": "Ambipur",
+      "description": "."
+    },
+    {
+      "name": "American Eagle",
+      "description": "."
+    },
+    {
+      "name": "Aqua",
+      "description": "."
+    },
+    {
+      "name": "Aquafina",
+      "description": "."
+    },
+    {
+      "name": "Ariel",
+      "description": "."
+    },
+    {
+      "name": "Aussie",
+      "description": "."
+    },
+    {
+      "name": "Bounty",
+      "description": "."
+    },
+    {
+      "name": "Braun",
+      "description": "."
+    },
+    {
+      "name": "Carrefour",
+      "description": "."
+    },
+    {
+      "name": "Carte D'Or Ice Creams",
+      "description": "."
+    },
+    {
+      "name": "Celebrations",
+      "description": "."
+    },
+    {
+      "name": "Cerave",
+      "description": "."
+    },
+    {
+      "name": "Charmin",
+      "description": "."
+    },
+    {
+      "name": "Cheerios",
+      "description": "."
+    },
+    {
+      "name": "Clear Blue",
+      "description": "."
+    },
+    {
+      "name": "Coca-Cola",
+      "description": "."
+    },
+    {
+      "name": "Comfort",
+      "description": "."
+    },
+    {
+      "name": "Cornetto Ice Creams",
+      "description": "."
+    },
+    {
+      "name": "Crest Toothpaste",
+      "description": "."
+    },
+    {
+      "name": "Dairy Milk",
+      "description": "."
+    },
+    {
+      "name": "Diesel Frangrances",
+      "description": "."
+    },
+    {
+      "name": "Diet Coke",
+      "description": "."
+    },
+    {
+      "name": "Disney",
+      "description": "."
+    },
+    {
+      "name": "Domino's Pizza",
+      "description": "."
+    },
+    {
+      "name": "Frestea",
+      "description": "."
+    },
+    {
+      "name": "Head & Shoulders",
+      "description": "."
+    },
+    {
+      "name": "Johnson & Johnson",
+      "description": "."
+    },
+    {
+      "name": "Marvel",
+      "description": "."
+    },
+    {
+      "name": "McDonald's",
+      "description": "."
+    },
+    {
+      "name": "Nestlé",
+      "description": "."
+    },
+    {
+      "name": "Olay",
+      "description": "."
+    },
+    {
+      "name": "Pantene",
+      "description": "."
+    },
+    {
+      "name": "Papa John's",
+      "description": "."
+    },
+    {
+      "name": "Rejoice",
+      "description": "."
+    },
+    {
+      "name": "Sabra",
+      "description": "."
+    },
+    {
+      "name": "Schweppes",
+      "description": "."
+    },
+    {
+      "name": "SodaStream",
+      "description": "."
+    },
+    {
+      "name": "Sunsilk",
+      "description": "."
+    },
+    {
+      "name": "Unilever",
+      "description": "."
+    },
+    {
+      "name": "Vit",
+      "description": "."
+    },
+    {
+      "name": "Xbox",
+      "description": "."
+    },
+    {
+      "name": "Actavis Generics",
+      "description": "."
+    },
+    {
+      "name": "Aerin",
+      "description": "."
+    },
+    {
+      "name": "Aesop",
+      "description": "."
+    },
+    {
+      "name": "Airwaves",
+      "description": "."
+    },
+    {
+      "name": "Aldi Nord",
+      "description": "."
+    },
+    {
+      "name": "Amika",
+      "description": "."
+    },
+    {
+      "name": "Appletiser",
+      "description": "."
+    },
+    {
+      "name": "Aptamil",
+      "description": "."
+    },
+    {
+      "name": "Aquarius",
+      "description": "."
+    },
+    {
+      "name": "Aramis",
+      "description": "."
+    },
+    {
+      "name": "Arista Networks",
+      "description": "."
+    },
+    {
+      "name": "Arwa",
+      "description": "."
+    },
+    {
+      "name": "Aviva",
+      "description": "."
+    },
+    {
+      "name": "AXA",
+      "description": "."
+    },
+    {
+      "name": "BAE Systems",
+      "description": "."
+    },
+    {
+      "name": "Bally",
+      "description": "."
+    },
+    {
+      "name": "Bank Hapoalim",
+      "description": "."
+    },
+    {
+      "name": "Bank Leumi",
+      "description": "."
+    },
+    {
+      "name": "Bank of America",
+      "description": "."
+    },
+    {
+      "name": "Bank of Montreal",
+      "description": "."
+    },
+    {
+      "name": "Bankinvest",
+      "description": "."
+    },
+    {
+      "name": "Barbican",
+      "description": "."
+    },
+    {
+      "name": "Barclays",
+      "description": "."
+    },
+    {
+      "name": "Bath & Body Works",
+      "description": "."
+    },
+    {
+      "name": "Bayer Pharmaceuticals",
+      "description": "."
+    },
+    {
+      "name": "Belvita",
+      "description": "."
+    },
+    {
+      "name": "Ben & Jerry's",
+      "description": "."
+    },
+    {
+      "name": "Ben's Originals",
+      "description": "."
+    },
+    {
+      "name": "Benefit Cosmetics",
+      "description": "."
+    },
+    {
+      "name": "Berskha",
+      "description": "."
+    },
+    {
+      "name": "Biotherm",
+      "description": "."
+    },
+    {
+      "name": "BMC Software",
+      "description": "."
+    },
+    {
+      "name": "BNP Paribas",
+      "description": "."
+    },
+    {
+      "name": "BNY Mellon",
+      "description": "."
+    },
+    {
+      "name": "Bobbi Brown",
+      "description": "."
+    },
+    {
+      "name": "Body Armor",
+      "description": "."
+    },
+    {
+      "name": "Boeing",
+      "description": "."
+    },
+    {
+      "name": "Bold",
+      "description": "."
+    },
+    {
+      "name": "Bon Aqua",
+      "description": "."
+    },
+    {
+      "name": "Booking.com",
+      "description": "."
+    },
+    {
+      "name": "Booking Holdings",
+      "description": "."
+    },
+    {
+      "name": "Bounty Paper Towels",
+      "description": "."
+    },
+    {
+      "name": "BP (British Petroleum)",
+      "description": "."
+    },
+    {
+      "name": "Bulgari",
+      "description": "."
+    },
+    {
+      "name": "Buxton",
+      "description": "."
+    },
+    {
+      "name": "CAF",
+      "description": "."
+    },
+    {
+      "name": "Capital One",
+      "description": "."
+    },
+    {
+      "name": "Caribou Coffee",
+      "description": "."
+    },
+    {
+      "name": "Carmel Agrexco",
+      "description": "."
+    },
+    {
+      "name": "Caterpillar",
+      "description": "."
+    },
+    {
+      "name": "Catsan",
+      "description": "."
+    },
+    {
+      "name": "Celine",
+      "description": "."
+    },
+    {
+      "name": "Chanel",
+      "description": "."
+    },
+    {
+      "name": "Cheapflights",
+      "description": "."
+    },
+    {
+      "name": "Check Point Software Technologies",
+      "description": "."
+    },
+    {
+      "name": "Chevron",
+      "description": "."
+    },
+    {
+      "name": "Cisco",
+      "description": "."
+    },
+    {
+      "name": "Clinique",
+      "description": "."
+    },
+    {
+      "name": "Comm-IT Technologies",
+      "description": "."
+    },
+    {
+      "name": "Conservative Party",
+      "description": "."
+    },
+    {
+      "name": "Costa Coffee",
+      "description": "."
+    },
+    {
+      "name": "Coty",
+      "description": "."
+    },
+    {
+      "name": "Cow & Gate",
+      "description": "."
+    },
+    {
+      "name": "Curver",
+      "description": "."
+    },
+    {
+      "name": "CyberArk",
+      "description": "."
+    },
+    {
+      "name": "Daim",
+      "description": "."
+    },
+    {
+      "name": "Danske Bank",
+      "description": "."
+    },
+    {
+      "name": "Dasani Water",
+      "description": "."
+    },
+    {
+      "name": "Delilah",
+      "description": "."
+    },
+    {
+      "name": "Dell",
+      "description": "."
+    },
+    {
+      "name": "Desert Diamond",
+      "description": "."
+    },
+    {
+      "name": "Diesel Fragrances",
+      "description": "."
+    },
+    {
+      "name": "DKNY",
+      "description": "."
+    },
+    {
+      "name": "eBay",
+      "description": "."
+    },
+    {
+      "name": "eToro",
+      "description": "."
+    },
+    {
+      "name": "Elbit Systems",
+      "description": "."
+    },
+    {
+      "name": "Elite",
+      "description": "."
+    },
+    {
+      "name": "Energy Team",
+      "description": "."
+    },
+    {
+      "name": "Expedia",
+      "description": "."
+    },
+    {
+      "name": "Fiverr",
+      "description": "."
+    },
+    {
+      "name": "Fortinet",
+      "description": "."
+    },
+    {
+      "name": "G1 Secure Solutions (G4S)",
+      "description": "."
+    },
+    {
+      "name": "General Electric",
+      "description": "."
+    },
+    {
+      "name": "General Mills",
+      "description": "."
+    },
+    {
+      "name": "Google",
+      "description": "."
+    },
+    {
+      "name": "HD Hyundai",
+      "description": "."
+    },
+    {
+      "name": "Hewlett Packard (HP, HPE, HP Inc)",
+      "description": "."
+    },
+    {
+      "name": "Hikvision",
+      "description": "."
+    },
+    {
+      "name": "Imperva",
+      "description": "."
+    },
+    {
+      "name": "Israeli dates",
+      "description": "."
+    },
+    {
+      "name": "Israeli produce",
+      "description": "."
+    },
+    {
+      "name": "JCB",
+      "description": "."
+    },
+    {
+      "name": "JPMorgan Chase",
+      "description": "."
+    },
+    {
+      "name": "L'Oréal",
+      "description": "."
+    },
+    {
+      "name": "Malam Team",
+      "description": "."
+    },
+    {
+      "name": "Matrix Global Services",
+      "description": "."
+    },
+    {
+      "name": "Maersk",
+      "description": "."
+    },
+    {
+      "name": "McAfee",
+      "description": "."
+    },
+    {
+      "name": "Microsoft",
+      "description": "."
+    },
+    {
+      "name": "Micron",
+      "description": "."
+    },
+    {
+      "name": "Monday.com",
+      "description": "."
+    },
+    {
+      "name": "Moon Active",
+      "description": "."
+    },
+    {
+      "name": "Motorola",
+      "description": "."
+    },
+    {
+      "name": "Netapp",
+      "description": "."
+    },
+    {
+      "name": "Nokia",
+      "description": "."
+    },
+    {
+      "name": "Nutanix",
+      "description": "."
+    },
+    {
+      "name": "NVIDIA",
+      "description": "."
+    },
+    {
+      "name": "Nykredit",
+      "description": "."
+    },
+    {
+      "name": "Opswat",
+      "description": "."
+    },
+    {
+      "name": "Oracle",
+      "description": "."
+    },
+    {
+      "name": "Osem",
+      "description": "."
+    },
+    {
+      "name": "PepsiCo",
+      "description": "."
+    },
+    {
+      "name": "Plarium",
+      "description": "."
+    },
+    {
+      "name": "Playtika Holdings Corp",
+      "description": "."
+    },
+    {
+      "name": "Prigat",
+      "description": "."
+    },
+    {
+      "name": "Prologic ITS",
+      "description": "."
+    },
+    {
+      "name": "Puregym",
+      "description": "."
+    },
+    {
+      "name": "Qualcomm",
+      "description": "."
+    },
+    {
+      "name": "Radware",
+      "description": "."
+    },
+    {
+      "name": "Ratiopharm",
+      "description": "."
+    },
+    {
+      "name": "RE/MAX",
+      "description": "."
+    },
+    {
+      "name": "Reebok",
+      "description": "."
+    },
+    {
+      "name": "Sabra Hummus",
+      "description": "."
+    },
+    {
+      "name": "ServiceNow",
+      "description": "."
+    },
+    {
+      "name": "Siemens",
+      "description": "."
+    },
+    {
+      "name": "Société Générale",
+      "description": "."
+    },
+    {
+      "name": "Strauss Group",
+      "description": "."
+    },
+    {
+      "name": "Tabnine",
+      "description": "."
+    },
+    {
+      "name": "Tara",
+      "description": "."
+    },
+    {
+      "name": "Tempo Beverages",
+      "description": "."
+    },
+    {
+      "name": "Tempur Sealy",
+      "description": "."
+    },
+    {
+      "name": "Teva Pharmaceutical Industries",
+      "description": "."
+    },
+    {
+      "name": "TKH Security",
+      "description": "."
+    },
+    {
+      "name": "Toyota Motor Corporation",
+      "description": "."
+    },
+    {
+      "name": "TripAdvisor",
+      "description": "."
+    },
+    {
+      "name": "Varonis",
+      "description": "."
+    },
+    {
+      "name": "Veolia",
+      "description": "."
+    },
+    {
+      "name": "Volvo",
+      "description": "."
+    },
+    {
+      "name": "Waterfall Security",
+      "description": "."
+    },
+    {
+      "name": "Wix",
+      "description": "."
+    },
+    {
+      "name": "Orange",
+      "description": "."
+    },
+    {
+      "name": "Texaco",
+      "description": "."
+    },
+    {
+      "name": "Caltex",
+      "description": "."
+    },
+    {
+      "name": "Edreams",
+      "description": "."
+    },
+    {
+      "name": "Opodo",
+      "description": "."
+    },
+    {
+      "name": "Citadis",
+      "description": "."
+    },
+    {
+      "name": "Indomie",
+      "description": "tidak secara langsung terdeteksi sebagai perusahaan Israel atau pro-Israel, tetapi boikot ini lebih diarahkan karena keterkaitan investasi melalui Salim Group dan dugaan saham di perusahaan yang memiliki afiliasi dengan Israel, seperti First Pacific Company Limited dan The Vanguard Group Inc."
+    },
+    {
+      "name": "Pop Mie",
+      "description": "tidak secara langsung terdeteksi sebagai perusahaan Israel atau pro-Israel, tetapi boikot ini lebih diarahkan karena keterkaitan investasi melalui Salim Group dan dugaan saham di perusahaan yang memiliki afiliasi dengan Israel, seperti First Pacific Company Limited dan The Vanguard Group Inc."
+    },
+    {
+      "name": "Sarimi",
+      "description": "tidak secara langsung terdeteksi sebagai perusahaan Israel atau pro-Israel, tetapi boikot ini lebih diarahkan karena keterkaitan investasi melalui Salim Group dan dugaan saham di perusahaan yang memiliki afiliasi dengan Israel, seperti First Pacific Company Limited dan The Vanguard Group Inc."
+    },
+    {
+      "name": "Supermi",
+      "description": "tidak secara langsung terdeteksi sebagai perusahaan Israel atau pro-Israel, tetapi boikot ini lebih diarahkan karena keterkaitan investasi melalui Salim Group dan dugaan saham di perusahaan yang memiliki afiliasi dengan Israel, seperti First Pacific Company Limited dan The Vanguard Group Inc."
+    },
+    {
+      "name": "Sakura",
+      "description": "tidak secara langsung terdeteksi sebagai perusahaan Israel atau pro-Israel, tetapi boikot ini lebih diarahkan karena keterkaitan investasi melalui Salim Group dan dugaan saham di perusahaan yang memiliki afiliasi dengan Israel, seperti First Pacific Company Limited dan The Vanguard Group Inc."
+    },
+    {
+      "name": "Pop Bihun",
+      "description": "tidak secara langsung terdeteksi sebagai perusahaan Israel atau pro-Israel, tetapi boikot ini lebih diarahkan karena keterkaitan investasi melalui Salim Group dan dugaan saham di perusahaan yang memiliki afiliasi dengan Israel, seperti First Pacific Company Limited dan The Vanguard Group Inc."
+    },
+    {
+      "name": "Mie Telur Cap 3 Ayam",
+      "description": "tidak secara langsung terdeteksi sebagai perusahaan Israel atau pro-Israel, tetapi boikot ini lebih diarahkan karena keterkaitan investasi melalui Salim Group dan dugaan saham di perusahaan yang memiliki afiliasi dengan Israel, seperti First Pacific Company Limited dan The Vanguard Group Inc."
+    },
+    {
+      "name": "La Fonte",
+      "description": "tidak secara langsung terdeteksi sebagai perusahaan Israel atau pro-Israel, tetapi boikot ini lebih diarahkan karena keterkaitan investasi melalui Salim Group dan dugaan saham di perusahaan yang memiliki afiliasi dengan Israel, seperti First Pacific Company Limited dan The Vanguard Group Inc."
+    },
+    {
+      "name": "Mie Keriting Special",
+      "description": "tidak secara langsung terdeteksi sebagai perusahaan Israel atau pro-Israel, tetapi boikot ini lebih diarahkan karena keterkaitan investasi melalui Salim Group dan dugaan saham di perusahaan yang memiliki afiliasi dengan Israel, seperti First Pacific Company Limited dan The Vanguard Group Inc."
+    },
+    {
+      "name": "Indomilk",
+      "description": "tidak secara langsung terdeteksi sebagai perusahaan Israel atau pro-Israel, tetapi boikot ini lebih diarahkan karena keterkaitan investasi melalui Salim Group dan dugaan saham di perusahaan yang memiliki afiliasi dengan Israel, seperti First Pacific Company Limited dan The Vanguard Group Inc."
+    },
+    {
+      "name": "Cap Enaak",
+      "description": "tidak secara langsung terdeteksi sebagai perusahaan Israel atau pro-Israel, tetapi boikot ini lebih diarahkan karena keterkaitan investasi melalui Salim Group dan dugaan saham di perusahaan yang memiliki afiliasi dengan Israel, seperti First Pacific Company Limited dan The Vanguard Group Inc."
+    },
+    {
+      "name": "Freiss",
+      "description": "tidak secara langsung terdeteksi sebagai perusahaan Israel atau pro-Israel, tetapi boikot ini lebih diarahkan karena keterkaitan investasi melalui Salim Group dan dugaan saham di perusahaan yang memiliki afiliasi dengan Israel, seperti First Pacific Company Limited dan The Vanguard Group Inc."
+    },
+    {
+      "name": "Milkuat",
+      "description": "tidak secara langsung terdeteksi sebagai perusahaan Israel atau pro-Israel, tetapi boikot ini lebih diarahkan karena keterkaitan investasi melalui Salim Group dan dugaan saham di perusahaan yang memiliki afiliasi dengan Israel, seperti First Pacific Company Limited dan The Vanguard Group Inc."
+    },
+    {
+      "name": "Indoeskrim",
+      "description": "tidak secara langsung terdeteksi sebagai perusahaan Israel atau pro-Israel, tetapi boikot ini lebih diarahkan karena keterkaitan investasi melalui Salim Group dan dugaan saham di perusahaan yang memiliki afiliasi dengan Israel, seperti First Pacific Company Limited dan The Vanguard Group Inc."
+    },
+    {
+      "name": "Ichi Ocha",
+      "description": "tidak secara langsung terdeteksi sebagai perusahaan Israel atau pro-Israel, tetapi boikot ini lebih diarahkan karena keterkaitan investasi melalui Salim Group dan dugaan saham di perusahaan yang memiliki afiliasi dengan Israel, seperti First Pacific Company Limited dan The Vanguard Group Inc."
+    },
+    {
+      "name": "Club",
+      "description": "tidak secara langsung terdeteksi sebagai perusahaan Israel atau pro-Israel, tetapi boikot ini lebih diarahkan karena keterkaitan investasi melalui Salim Group dan dugaan saham di perusahaan yang memiliki afiliasi dengan Israel, seperti First Pacific Company Limited dan The Vanguard Group Inc."
+    },
+    {
+      "name": "Fruitamin",
+      "description": "tidak secara langsung terdeteksi sebagai perusahaan Israel atau pro-Israel, tetapi boikot ini lebih diarahkan karena keterkaitan investasi melalui Salim Group dan dugaan saham di perusahaan yang memiliki afiliasi dengan Israel, seperti First Pacific Company Limited dan The Vanguard Group Inc."
+    },
+    {
+      "name": "Cheetos",
+      "description": "tidak secara langsung terdeteksi sebagai perusahaan Israel atau pro-Israel, tetapi boikot ini lebih diarahkan karena keterkaitan investasi melalui Salim Group dan dugaan saham di perusahaan yang memiliki afiliasi dengan Israel, seperti First Pacific Company Limited dan The Vanguard Group Inc."
+    },
+    {
+      "name": "Chiki",
+      "description": "tidak secara langsung terdeteksi sebagai perusahaan Israel atau pro-Israel, tetapi boikot ini lebih diarahkan karena keterkaitan investasi melalui Salim Group dan dugaan saham di perusahaan yang memiliki afiliasi dengan Israel, seperti First Pacific Company Limited dan The Vanguard Group Inc."
+    },
+    {
+      "name": "Jet-Z",
+      "description": "tidak secara langsung terdeteksi sebagai perusahaan Israel atau pro-Israel, tetapi boikot ini lebih diarahkan karena keterkaitan investasi melalui Salim Group dan dugaan saham di perusahaan yang memiliki afiliasi dengan Israel, seperti First Pacific Company Limited dan The Vanguard Group Inc."
+    },
+    {
+      "name": "Jetz Mix",
+      "description": "tidak secara langsung terdeteksi sebagai perusahaan Israel atau pro-Israel, tetapi boikot ini lebih diarahkan karena keterkaitan investasi melalui Salim Group dan dugaan saham di perusahaan yang memiliki afiliasi dengan Israel, seperti First Pacific Company Limited dan The Vanguard Group Inc."
+    },
+    {
+      "name": "Trenz",
+      "description": "tidak secara langsung terdeteksi sebagai perusahaan Israel atau pro-Israel, tetapi boikot ini lebih diarahkan karena keterkaitan investasi melalui Salim Group dan dugaan saham di perusahaan yang memiliki afiliasi dengan Israel, seperti First Pacific Company Limited dan The Vanguard Group Inc."
+    },
+    {
+      "name": "Maxicorn",
+      "description": "tidak secara langsung terdeteksi sebagai perusahaan Israel atau pro-Israel, tetapi boikot ini lebih diarahkan karena keterkaitan investasi melalui Salim Group dan dugaan saham di perusahaan yang memiliki afiliasi dengan Israel, seperti First Pacific Company Limited dan The Vanguard Group Inc."
+    },
+    {
+      "name": "Piattos",
+      "description": "tidak secara langsung terdeteksi sebagai perusahaan Israel atau pro-Israel, tetapi boikot ini lebih diarahkan karena keterkaitan investasi melalui Salim Group dan dugaan saham di perusahaan yang memiliki afiliasi dengan Israel, seperti First Pacific Company Limited dan The Vanguard Group Inc."
+    },
+    {
+      "name": "Lay’s",
+      "description": "tidak secara langsung terdeteksi sebagai perusahaan Israel atau pro-Israel, tetapi boikot ini lebih diarahkan karena keterkaitan investasi melalui Salim Group dan dugaan saham di perusahaan yang memiliki afiliasi dengan Israel, seperti First Pacific Company Limited dan The Vanguard Group Inc."
+    },
+    {
+      "name": "Chitato",
+      "description": "tidak secara langsung terdeteksi sebagai perusahaan Israel atau pro-Israel, tetapi boikot ini lebih diarahkan karena keterkaitan investasi melalui Salim Group dan dugaan saham di perusahaan yang memiliki afiliasi dengan Israel, seperti First Pacific Company Limited dan The Vanguard Group Inc."
+    },
+    {
+      "name": "Qtela",
+      "description": "tidak secara langsung terdeteksi sebagai perusahaan Israel atau pro-Israel, tetapi boikot ini lebih diarahkan karena keterkaitan investasi melalui Salim Group dan dugaan saham di perusahaan yang memiliki afiliasi dengan Israel, seperti First Pacific Company Limited dan The Vanguard Group Inc."
+    },
+    {
+      "name": "So Good",
+      "description": "tidak secara langsung terdeteksi sebagai perusahaan Israel atau pro-Israel, tetapi boikot ini lebih diarahkan karena keterkaitan investasi melalui Salim Group dan dugaan saham di perusahaan yang memiliki afiliasi dengan Israel, seperti First Pacific Company Limited dan The Vanguard Group Inc."
+    },
+    {
+      "name": "So Nice",
+      "description": "tidak secara langsung terdeteksi sebagai perusahaan Israel atau pro-Israel, tetapi boikot ini lebih diarahkan karena keterkaitan investasi melalui Salim Group dan dugaan saham di perusahaan yang memiliki afiliasi dengan Israel, seperti First Pacific Company Limited dan The Vanguard Group Inc."
+    },
+    {
+      "name": "Fiesta",
+      "description": "tidak secara langsung terdeteksi sebagai perusahaan Israel atau pro-Israel, tetapi boikot ini lebih diarahkan karena keterkaitan investasi melalui Salim Group dan dugaan saham di perusahaan yang memiliki afiliasi dengan Israel, seperti First Pacific Company Limited dan The Vanguard Group Inc."
+    },
+    {
+      "name": "SUN",
+      "description": "tidak secara langsung terdeteksi sebagai perusahaan Israel atau pro-Israel, tetapi boikot ini lebih diarahkan karena keterkaitan investasi melalui Salim Group dan dugaan saham di perusahaan yang memiliki afiliasi dengan Israel, seperti First Pacific Company Limited dan The Vanguard Group Inc."
+    },
+    {
+      "name": "Promina",
+      "description": "tidak secara langsung terdeteksi sebagai perusahaan Israel atau pro-Israel, tetapi boikot ini lebih diarahkan karena keterkaitan investasi melalui Salim Group dan dugaan saham di perusahaan yang memiliki afiliasi dengan Israel, seperti First Pacific Company Limited dan The Vanguard Group Inc."
+    },
+    {
+      "name": "Bimoli",
+      "description": "tidak secara langsung terdeteksi sebagai perusahaan Israel atau pro-Israel, tetapi boikot ini lebih diarahkan karena keterkaitan investasi melalui Salim Group dan dugaan saham di perusahaan yang memiliki afiliasi dengan Israel, seperti First Pacific Company Limited dan The Vanguard Group Inc."
+    },
+    {
+      "name": "Palmia",
+      "description": "tidak secara langsung terdeteksi sebagai perusahaan Israel atau pro-Israel, tetapi boikot ini lebih diarahkan karena keterkaitan investasi melalui Salim Group dan dugaan saham di perusahaan yang memiliki afiliasi dengan Israel, seperti First Pacific Company Limited dan The Vanguard Group Inc."
+    },
+    {
+      "name": "Blueberry Margarine",
+      "description": "tidak secara langsung terdeteksi sebagai perusahaan Israel atau pro-Israel, tetapi boikot ini lebih diarahkan karena keterkaitan investasi melalui Salim Group dan dugaan saham di perusahaan yang memiliki afiliasi dengan Israel, seperti First Pacific Company Limited dan The Vanguard Group Inc."
+    },
+    {
+      "name": "Indofood Kecap Manis",
+      "description": "tidak secara langsung terdeteksi sebagai perusahaan Israel atau pro-Israel, tetapi boikot ini lebih diarahkan karena keterkaitan investasi melalui Salim Group dan dugaan saham di perusahaan yang memiliki afiliasi dengan Israel, seperti First Pacific Company Limited dan The Vanguard Group Inc."
+    },
+    {
+      "name": "Indofood Saus Sambal",
+      "description": "tidak secara langsung terdeteksi sebagai perusahaan Israel atau pro-Israel, tetapi boikot ini lebih diarahkan karena keterkaitan investasi melalui Salim Group dan dugaan saham di perusahaan yang memiliki afiliasi dengan Israel, seperti First Pacific Company Limited dan The Vanguard Group Inc."
+    },
+    {
+      "name": "Indofood Saus Tomat",
+      "description": "tidak secara langsung terdeteksi sebagai perusahaan Israel atau pro-Israel, tetapi boikot ini lebih diarahkan karena keterkaitan investasi melalui Salim Group dan dugaan saham di perusahaan yang memiliki afiliasi dengan Israel, seperti First Pacific Company Limited dan The Vanguard Group Inc."
+    },
+    {
+      "name": "Indofood Bumbu Racik",
+      "description": "tidak secara langsung terdeteksi sebagai perusahaan Israel atau pro-Israel, tetapi boikot ini lebih diarahkan karena keterkaitan investasi melalui Salim Group dan dugaan saham di perusahaan yang memiliki afiliasi dengan Israel, seperti First Pacific Company Limited dan The Vanguard Group Inc."
+    },
+    {
+      "name": "Indofood Sambal Kemasan",
+      "description": "tidak secara langsung terdeteksi sebagai perusahaan Israel atau pro-Israel, tetapi boikot ini lebih diarahkan karena keterkaitan investasi melalui Salim Group dan dugaan saham di perusahaan yang memiliki afiliasi dengan Israel, seperti First Pacific Company Limited dan The Vanguard Group Inc."
+    },
+    {
+      "name": "Indosari Kecap",
+      "description": "tidak secara langsung terdeteksi sebagai perusahaan Israel atau pro-Israel, tetapi boikot ini lebih diarahkan karena keterkaitan investasi melalui Salim Group dan dugaan saham di perusahaan yang memiliki afiliasi dengan Israel, seperti First Pacific Company Limited dan The Vanguard Group Inc."
+    },
+    {
+      "name": "Cakra Kembar Emas",
+      "description": "tidak secara langsung terdeteksi sebagai perusahaan Israel atau pro-Israel, tetapi boikot ini lebih diarahkan karena keterkaitan investasi melalui Salim Group dan dugaan saham di perusahaan yang memiliki afiliasi dengan Israel, seperti First Pacific Company Limited dan The Vanguard Group Inc."
+    },
+    {
+      "name": "Cakra Kembar",
+      "description": "tidak secara langsung terdeteksi sebagai perusahaan Israel atau pro-Israel, tetapi boikot ini lebih diarahkan karena keterkaitan investasi melalui Salim Group dan dugaan saham di perusahaan yang memiliki afiliasi dengan Israel, seperti First Pacific Company Limited dan The Vanguard Group Inc."
+    },
+    {
+      "name": "Kunci Biru",
+      "description": "tidak secara langsung terdeteksi sebagai perusahaan Israel atau pro-Israel, tetapi boikot ini lebih diarahkan karena keterkaitan investasi melalui Salim Group dan dugaan saham di perusahaan yang memiliki afiliasi dengan Israel, seperti First Pacific Company Limited dan The Vanguard Group Inc."
+    },
+    {
+      "name": "Segitiga Biru",
+      "description": "tidak secara langsung terdeteksi sebagai perusahaan Israel atau pro-Israel, tetapi boikot ini lebih diarahkan karena keterkaitan investasi melalui Salim Group dan dugaan saham di perusahaan yang memiliki afiliasi dengan Israel, seperti First Pacific Company Limited dan The Vanguard Group Inc."
+    },
+    {
+      "name": "Lencana Merah",
+      "description": "tidak secara langsung terdeteksi sebagai perusahaan Israel atau pro-Israel, tetapi boikot ini lebih diarahkan karena keterkaitan investasi melalui Salim Group dan dugaan saham di perusahaan yang memiliki afiliasi dengan Israel, seperti First Pacific Company Limited dan The Vanguard Group Inc."
+    },
+    {
+      "name": "Bogasari",
+      "description": "tidak secara langsung terdeteksi sebagai perusahaan Israel atau pro-Israel, tetapi boikot ini lebih diarahkan karena keterkaitan investasi melalui Salim Group dan dugaan saham di perusahaan yang memiliki afiliasi dengan Israel, seperti First Pacific Company Limited dan The Vanguard Group Inc."
+    },
+    {
+      "name": "Wall’s",
+      "description": "Produk Unilever"
+    },
+    {
+      "name": "Magnum",
+      "description": "Produk Unilever"
+    },
+    {
+      "name": "Cornetto",
+      "description": "Produk Unilever"
+    },
+    {
+      "name": "Paddle Pop",
+      "description": "Produk Unilever"
+    },
+    {
+      "name": "Feast",
+      "description": "Produk Unilever"
+    },
+    {
+      "name": "Viennetta",
+      "description": "Produk Unilever"
+    },
+    {
+      "name": "Blue Band",
+      "description": "Produk Unilever"
+    },
+    {
+      "name": "Royco",
+      "description": "Produk Unilever"
+    },
+    {
+      "name": "Bango",
+      "description": "Produk Unilever"
+    },
+    {
+      "name": "Knorr",
+      "description": "Produk Unilever"
+    },
+    {
+      "name": "SariWangi",
+      "description": "Produk Unilever"
+    },
+    {
+      "name": "Lipton",
+      "description": "Produk Unilever"
+    },
+    {
+      "name": "Floridina",
+      "description": "Produk Unilever"
+    },
+    {
+      "name": "Molto",
+      "description": "Produk Unilever"
+    },
+    {
+      "name": "Rinso",
+      "description": "Produk Unilever"
+    },
+    {
+      "name": "Sunlight",
+      "description": "Produk Unilever"
+    },
+    {
+      "name": "Vixal",
+      "description": "Produk Unilever"
+    },
+    {
+      "name": "Wipol",
+      "description": "Produk Unilever"
+    },
+    {
+      "name": "Cif",
+      "description": "Produk Unilever"
+    },
+    {
+      "name": "Dove",
+      "description": "Produk Unilever"
+    },
+    {
+      "name": "Lifebuoy",
+      "description": "Produk Unilever"
+    },
+    {
+      "name": "Lux",
+      "description": "Produk Unilever"
+    },
+    {
+      "name": "Clear",
+      "description": "Produk Unilever"
+    },
+    {
+      "name": "Clear Men",
+      "description": "Produk Unilever"
+    },
+    {
+      "name": "Tresemmé",
+      "description": "Produk Unilever"
+    },
+    {
+      "name": "Pepsodent",
+      "description": "Produk Unilever"
+    },
+    {
+      "name": "Closeup",
+      "description": "Produk Unilever"
+    },
+    {
+      "name": "Signal",
+      "description": "Produk Unilever"
+    },
+    {
+      "name": "Vaseline",
+      "description": "Produk Unilever"
+    },
+    {
+      "name": "Vaseline Men",
+      "description": "Produk Unilever"
+    },
+    {
+      "name": "Pond’s",
+      "description": "Produk Unilever"
+    },
+    {
+      "name": "Pond’s Men",
+      "description": "Produk Unilever"
+    },
+    {
+      "name": "Glow & Lovely",
+      "description": "Produk Unilever"
+    },
+    {
+      "name": "Rexona",
+      "description": "Produk Unilever"
+    },
+    {
+      "name": "Axe",
+      "description": "Produk Unilever"
+    },
+    {
+      "name": "Citra",
+      "description": "Produk Unilever"
+    },
+    {
+      "name": "Love Beauty and Planet",
+      "description": "Produk Unilever"
+    },
+    {
+      "name": "St. Ives",
+      "description": "Produk Unilever"
+    },
+    {
+      "name": "Tangle Teezer",
+      "description": "Produk Unilever"
+    },
+    {
+      "name": "Hellmann’s",
+      "description": "Produk Unilever"
+    },
+    {
+      "name": "Jawara",
+      "description": "Produk Unilever"
+    },
+    {
+      "name": "Populaire",
+      "description": "Produk Unilever"
+    },
+    {
+      "name": "Seru",
+      "description": "Produk Unilever"
+    },
+    {
+      "name": "Simple",
+      "description": "Produk Unilever"
+    },
+    {
+      "name": "Super Pell",
+      "description": "Produk Unilever"
+    },
+    {
+      "name": "The Vegetarian Butcher",
+      "description": "Produk Unilever"
+    },
+    {
+      "name": "Zwitsal",
+      "description": "Produk Unilever"
+    },
+    {
+      "name": "Bear Brand",
+      "description": "Produk Nestle"
+    },
+    {
+      "name": "Dancow",
+      "description": "Produk Nestle"
+    },
+    {
+      "name": "Milo",
+      "description": "Produk Nestle"
+    },
+    {
+      "name": "Nescafe",
+      "description": "Produk Nestle"
+    },
+    {
+      "name": "Nestea",
+      "description": "Produk Nestle"
+    },
+    {
+      "name": "KitKat",
+      "description": "Produk Nestle"
+    },
+    {
+      "name": "Koko Krunch",
+      "description": "Produk Nestle"
+    },
+    {
+      "name": "Honey Stars",
+      "description": "Produk Nestle"
+    },
+    {
+      "name": "Gold Corn Flakes",
+      "description": "Produk Nestle"
+    },
+    {
+      "name": "Fitnesse",
+      "description": "Produk Nestle"
+    },
+    {
+      "name": "Cerelac",
+      "description": "Produk Nestle"
+    },
+    {
+      "name": "Lactogrow",
+      "description": "Produk Nestle"
+    },
+    {
+      "name": "Batita",
+      "description": "Produk Nestle"
+    },
+    {
+      "name": "Goodnes",
+      "description": "Produk Nestle"
+    },
+    {
+      "name": "Carnation",
+      "description": "Produk Nestle"
+    },
+    {
+      "name": "Docello",
+      "description": "Produk Nestle"
+    },
+    {
+      "name": "Coffee Mate",
+      "description": "Produk Nestle"
+    },
+    {
+      "name": "Maggi",
+      "description": "Produk Nestle"
+    },
+    {
+      "name": "Pure Life",
+      "description": "Produk Nestle"
+    },
+    {
+      "name": "Boost Optimum",
+      "description": "Produk Nestle"
+    },
+    {
+      "name": "Isocal",
+      "description": "Produk Nestle"
+    },
+    {
+      "name": "Peptamen",
+      "description": "Produk Nestle"
+    },
+    {
+      "name": "Peptamen Junior",
+      "description": "Produk Nestle"
+    },
+    {
+      "name": "Nutren Fibre",
+      "description": "Produk Nestle"
+    },
+    {
+      "name": "Nutren Junior",
+      "description": "Produk Nestle"
+    },
+    {
+      "name": "Nutren Diabetes",
+      "description": "Produk Nestle"
+    },
+    {
+      "name": "Purina Felix",
+      "description": "Produk Nestle"
+    },
+    {
+      "name": "Purina One",
+      "description": "Produk Nestle"
+    },
+    {
+      "name": "Purina Pro Plan",
+      "description": "Produk Nestle"
+    },
+    {
+      "name": "Nescafé",
+      "description": "Produk Nestle"
+    },
+    {
+      "name": "Lactogen",
+      "description": "Produk Nestle"
+    },
+    {
+      "name": "NAN",
+      "description": "Produk Nestle"
+    },
+    {
+      "name": "Nutren Fiber",
+      "description": "Produk Nestle"
+    },
+    {
+      "name": "Nutren Optimum",
+      "description": "Produk Nestle"
+    },
+    {
+      "name": "Nestlé Pure Life",
+      "description": "Produk Nestle"
+    },
+    {
+      "name": "Bear Brand (susu cap beruang)",
+      "description": "Produk Nestle"
+    },
+    {
+      "name": "Golden Morn",
+      "description": "Produk Nestle"
+    },
+    {
+      "name": "Häagen-Dazs",
+      "description": "Produk Nestle"
+    },
+    {
+      "name": "Mountain Dew",
+      "description": "."
+    },
+    {
+      "name": "Gatorade",
+      "description": "."
+    },
+    {
+      "name": "Quaker Oats",
+      "description": "."
+    },
+    {
+      "name": "Tropicana",
+      "description": "."
+    },
+    {
+      "name": "Minute Maid Pulpy",
+      "description": "."
+    },
+    {
+      "name": "A&W Root Beer",
+      "description": "."
+    },
+    {
+      "name": "Ades",
+      "description": "."
+    },
+    {
+      "name": "Nutrilon",
+      "description": "."
+    },
+    {
+      "name": "Bebelac",
+      "description": "."
+    },
+    {
+      "name": "SGM Eksplor",
+      "description": "."
+    },
+    {
+      "name": "Evian",
+      "description": "."
+    },
+    {
+      "name": "Gillette",
+      "description": "."
+    },
+    {
+      "name": "Downy",
+      "description": "."
+    },
+    {
+      "name": "Ambi Pur",
+      "description": "."
+    },
+    {
+      "name": "Whisper",
+      "description": "."
+    },
+    {
+      "name": "Johnson’s Baby",
+      "description": "."
+    },
+    {
+      "name": "Clean & Clear",
+      "description": "."
+    },
+    {
+      "name": "Stayfree",
+      "description": "."
+    },
+    {
+      "name": "OB Tampons",
+      "description": "."
+    },
+    {
+      "name": "Acuvue",
+      "description": "."
+    },
+    {
+      "name": "Neutrogena",
+      "description": "."
+    },
+    {
+      "name": "McDonald’s",
+      "description": "."
+    },
+    {
+      "name": "Domino’s Pizza",
+      "description": "."
+    },
+    {
+      "name": "Toblerone",
+      "description": "."
+    },
+    {
+      "name": "Chips Ahoy!",
+      "description": "."
+    },
+    {
+      "name": "Tang",
+      "description": "."
+    },
+    {
+      "name": "Nike",
+      "description": "."
+    },
+    {
+      "name": "H&M",
+      "description": "."
+    },
+    {
+      "name": "Pull & Bear",
+      "description": "."
+    },
+    {
+      "name": "Bershka",
+      "description": "."
+    },
+    {
+      "name": "Stradivarius",
+      "description": "."
+    },
+    {
+      "name": "Massimo Dutti",
+      "description": "."
+    },
+    {
+      "name": "Levi’s",
+      "description": "."
+    },
+    {
+      "name": "Converse",
+      "description": "."
+    },
+    {
+      "name": "Vans",
+      "description": "."
+    },
+    {
+      "name": "New Balance",
+      "description": "."
+    },
+    {
+      "name": "Uniqlo",
+      "description": "."
+    },
+    {
+      "name": "HP (Hewlett-Packard)",
+      "description": "."
+    },
+    {
+      "name": "Facebook (Meta → termasuk Instagram & WhatsApp)",
+      "description": "."
+    },
+    {
+      "name": "Netflix",
+      "description": "."
     }
   ]
 }
