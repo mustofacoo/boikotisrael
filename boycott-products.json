@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "last_updated": "2025-08-16",
     "total_products": 775,
-    "description": "Database produk yang perlu dihindari berdasarkan berbagai pertimbangan etis, lingkungan, dan sosial"
+    "description": "Database produk yang perlu dihindari"
   },
   "products": [
     {
@@ -253,6 +253,922 @@
     {
       "name": "gucci",
       "description": "-"
+    },
+    {
+      "name": "Ala",
+      "description": "."
+    },
+    {
+      "name": "Aspirin",
+      "description": "."
+    },
+    {
+      "name": "Au Bon Pain",
+      "description": "."
+    },
+    {
+      "name": "Atelier cologne",
+      "description": "."
+    },
+    {
+      "name": "Alpenliebe",
+      "description": "."
+    },
+    {
+      "name": "Mentos",
+      "description": "."
+    },
+    {
+      "name": "Perfetti van melle",
+      "description": "."
+    },
+    {
+      "name": "Brite",
+      "description": "."
+    },
+    {
+      "name": "Aviv passover matzos",
+      "description": "."
+    },
+    {
+      "name": "Riot games",
+      "description": "."
+    },
+    {
+      "name": "NaHCO3",
+      "description": "."
+    },
+    {
+      "name": "Minimalist",
+      "description": "."
+    },
+    {
+      "name": "Etsy",
+      "description": "."
+    },
+    {
+      "name": "Mepha",
+      "description": "."
+    },
+    {
+      "name": "Redefine meat",
+      "description": "."
+    },
+    {
+      "name": "Twyneo",
+      "description": "."
+    },
+    {
+      "name": "TRI-LUMA",
+      "description": "."
+    },
+    {
+      "name": "Soolantra",
+      "description": "."
+    },
+    {
+      "name": "Sculptra",
+      "description": "."
+    },
+    {
+      "name": "Restlylane",
+      "description": "."
+    },
+    {
+      "name": "Relfydess",
+      "description": "."
+    },
+    {
+      "name": "Oracea",
+      "description": "."
+    },
+    {
+      "name": "Nemluvio",
+      "description": "."
+    },
+    {
+      "name": "Mirvaso",
+      "description": "."
+    },
+    {
+      "name": "metvix",
+      "description": "."
+    },
+    {
+      "name": "locerly",
+      "description": "."
+    },
+    {
+      "name": "epsolay",
+      "description": "."
+    },
+    {
+      "name": "epidou",
+      "description": "."
+    },
+    {
+      "name": "dysport",
+      "description": "."
+    },
+    {
+      "name": "differin",
+      "description": "."
+    },
+    {
+      "name": "benzac",
+      "description": "."
+    },
+    {
+      "name": "azzalure",
+      "description": "."
+    },
+    {
+      "name": "alluzience",
+      "description": "."
+    },
+    {
+      "name": "alastin",
+      "description": "."
+    },
+    {
+      "name": "aklief",
+      "description": "."
+    },
+    {
+      "name": "actinica",
+      "description": "."
+    },
+    {
+      "name": "cetaphil",
+      "description": "."
+    },
+    {
+      "name": "galderma",
+      "description": "."
+    },
+    {
+      "name": "orri mandarin",
+      "description": "."
+    },
+    {
+      "name": "grapetiser",
+      "description": "."
+    },
+    {
+      "name": "keter group",
+      "description": "."
+    },
+    {
+      "name": "microsoft XBOX",
+      "description": "."
+    },
+    {
+      "name": "microsoft",
+      "description": "."
+    },
+    {
+      "name": "bulpex",
+      "description": "."
+    },
+    {
+      "name": "cetriz",
+      "description": "."
+    },
+    {
+      "name": "exorex",
+      "description": "."
+    },
+    {
+      "name": "infacol",
+      "description": "."
+    },
+    {
+      "name": "sudocrem",
+      "description": "."
+    },
+    {
+      "name": "motusol",
+      "description": "."
+    },
+    {
+      "name": "firehouse subs",
+      "description": "."
+    },
+    {
+      "name": "timhortons",
+      "description": "."
+    },
+    {
+      "name": "RBI",
+      "description": "."
+    },
+    {
+      "name": "Inditex",
+      "description": "."
+    },
+    {
+      "name": "schwarz group",
+      "description": "."
+    },
+    {
+      "name": "XM-Cyber",
+      "description": "."
+    },
+    {
+      "name": "roche",
+      "description": "."
+    },
+    {
+      "name": "eucerin",
+      "description": "."
+    },
+    {
+      "name": "hansaplast",
+      "description": "."
+    },
+    {
+      "name": "nivea",
+      "description": "."
+    },
+    {
+      "name": "codral day & night",
+      "description": "."
+    },
+    {
+      "name": "deadsea collection",
+      "description": "."
+    },
+    {
+      "name": "jazwares",
+      "description": "."
+    },
+    {
+      "name": "apple",
+      "description": "."
+    },
+    {
+      "name": "skechers",
+      "description": "."
+    },
+    {
+      "name": "Elvive",
+      "description": "."
+    },
+    {
+      "name": "better homes & gardens",
+      "description": "."
+    },
+    {
+      "name": "alesto",
+      "description": "."
+    },
+    {
+      "name": "the kraft group",
+      "description": "."
+    },
+    {
+      "name": "mug root beer",
+      "description": "."
+    },
+    {
+      "name": "sanex",
+      "description": "."
+    },
+    {
+      "name": "ferrara candy company",
+      "description": "."
+    },
+    {
+      "name": "yocrunch",
+      "description": "."
+    },
+    {
+      "name": "ajax",
+      "description": "."
+    },
+    {
+      "name": "nutricia",
+      "description": "."
+    },
+    {
+      "name": "kirks",
+      "description": "."
+    },
+    {
+      "name": "sam's club",
+      "description": "."
+    },
+    {
+      "name": "vibrant life",
+      "description": "."
+    },
+    {
+      "name": "mainstays",
+      "description": "."
+    },
+    {
+      "name": "great value",
+      "description": "."
+    },
+    {
+      "name": "ricore'",
+      "description": "."
+    },
+    {
+      "name": "hello kitty",
+      "description": "."
+    },
+    {
+      "name": "al safi danone",
+      "description": "."
+    },
+    {
+      "name": "lemon max",
+      "description": "."
+    },
+    {
+      "name": "cup-a-soup",
+      "description": "."
+    },
+    {
+      "name": "silk",
+      "description": "."
+    },
+    {
+      "name": "parkside",
+      "description": "."
+    },
+    {
+      "name": "kinder",
+      "description": "."
+    },
+    {
+      "name": "vania",
+      "description": "."
+    },
+    {
+      "name": "bar one",
+      "description": "."
+    },
+    {
+      "name": "band-aid",
+      "description": "."
+    },
+    {
+      "name": "deep riverrock",
+      "description": "."
+    },
+    {
+      "name": "vuarnet",
+      "description": "."
+    },
+    {
+      "name": "barton perreire",
+      "description": "."
+    },
+    {
+      "name": "kurma royale",
+      "description": "."
+    },
+    {
+      "name": "crunch",
+      "description": "."
+    },
+    {
+      "name": "Dr. organic",
+      "description": "."
+    },
+    {
+      "name": "trencito",
+      "description": "."
+    },
+    {
+      "name": "nuts",
+      "description": "."
+    },
+    {
+      "name": "rowntree's",
+      "description": "."
+    },
+    {
+      "name": "peppermint crisp",
+      "description": "."
+    },
+    {
+      "name": "kimo",
+      "description": "."
+    },
+    {
+      "name": "milkmaid",
+      "description": "."
+    },
+    {
+      "name": "after eight",
+      "description": "."
+    },
+    {
+      "name": "lactrogrow",
+      "description": "."
+    },
+    {
+      "name": "libby's",
+      "description": "."
+    },
+    {
+      "name": "damak",
+      "description": "."
+    },
+    {
+      "name": "original wagner",
+      "description": "."
+    },
+    {
+      "name": "bunyad",
+      "description": "."
+    },
+    {
+      "name": "movenpick",
+      "description": "."
+    },
+    {
+      "name": "baker's choice",
+      "description": "."
+    },
+    {
+      "name": "panera",
+      "description": "."
+    },
+    {
+      "name": "stumptown",
+      "description": "."
+    },
+    {
+      "name": "peet's coffe",
+      "description": "."
+    },
+    {
+      "name": "insomnia cookies",
+      "description": "."
+    },
+    {
+      "name": "einstein bros bagels",
+      "description": "."
+    },
+    {
+      "name": "bruegger's bagels",
+      "description": "."
+    },
+    {
+      "name": "manhatten bagel",
+      "description": "."
+    },
+    {
+      "name": "noah's ny bagels",
+      "description": "."
+    },
+    {
+      "name": "cariboun coffe",
+      "description": "."
+    },
+    {
+      "name": "kerastase",
+      "description": "."
+    },
+    {
+      "name": "mythic oil",
+      "description": "."
+    },
+    {
+      "name": "kylie cosmetics",
+      "description": "."
+    },
+    {
+      "name": "red bull",
+      "description": "."
+    },
+    {
+      "name": "louis vuitton",
+      "description": "."
+    },
+    {
+      "name": "tommy hilfiger",
+      "description": "."
+    },
+    {
+      "name": "jif",
+      "description": "."
+    },
+    {
+      "name": "ikea",
+      "description": "."
+    },
+    {
+      "name": "oysho",
+      "description": "."
+    },
+    {
+      "name": "hardees",
+      "description": "."
+    },
+    {
+      "name": "globaleSIM",
+      "description": "."
+    },
+    {
+      "name": "Sanrio",
+      "description": "."
+    },
+    {
+      "name": "darlie",
+      "description": "."
+    },
+    {
+      "name": "CKE restaurant",
+      "description": "."
+    },
+    {
+      "name": "chicken in a biskit",
+      "description": "."
+    },
+    {
+      "name": "venom energy",
+      "description": "."
+    },
+    {
+      "name": "RBC",
+      "description": "."
+    },
+    {
+      "name": "Indigo",
+      "description": "."
+    },
+    {
+      "name": "lupilu",
+      "description": "."
+    },
+    {
+      "name": "jordan valley",
+      "description": "."
+    },
+    {
+      "name": "tamara barhi",
+      "description": "."
+    },
+    {
+      "name": "jaffa dates",
+      "description": "."
+    },
+    {
+      "name": "eden",
+      "description": "."
+    },
+    {
+      "name": "the medjool dates",
+      "description": "."
+    },
+    {
+      "name": "jordan river dates",
+      "description": "."
+    },
+    {
+      "name": "leon's fruit shop",
+      "description": "."
+    },
+    {
+      "name": "vimto",
+      "description": "."
+    },
+    {
+      "name": "ferrero",
+      "description": "."
+    },
+    {
+      "name": "nutella",
+      "description": "."
+    },
+    {
+      "name": "nutrafol",
+      "description": "."
+    },
+    {
+      "name": "quiet & roar",
+      "description": "."
+    },
+    {
+      "name": "flash",
+      "description": "."
+    },
+    {
+      "name": "daz",
+      "description": "."
+    },
+    {
+      "name": "hair biology",
+      "description": "."
+    },
+    {
+      "name": "seven seas",
+      "description": "."
+    },
+    {
+      "name": "vigantlovit",
+      "description": "."
+    },
+    {
+      "name": "nasivin",
+      "description": "."
+    },
+    {
+      "name": "bear fruits",
+      "description": "."
+    },
+    {
+      "name": "L inc",
+      "description": "."
+    },
+    {
+      "name": "blend a med",
+      "description": "."
+    },
+    {
+      "name": "sunny",
+      "description": "."
+    },
+    {
+      "name": "doli planet",
+      "description": "."
+    },
+    {
+      "name": "freastea",
+      "description": "."
+    },
+    {
+      "name": "coca cola zero sugar",
+      "description": "."
+    },
+    {
+      "name": "safia water",
+      "description": "."
+    },
+    {
+      "name": "coral",
+      "description": "."
+    },
+    {
+      "name": "sadaf",
+      "description": "."
+    },
+    {
+      "name": "rani",
+      "description": "."
+    },
+    {
+      "name": "chokis",
+      "description": "."
+    },
+    {
+      "name": "i lohas",
+      "description": "."
+    },
+    {
+      "name": "5Alive",
+      "description": "."
+    },
+    {
+      "name": "honest",
+      "description": "."
+    },
+    {
+      "name": "kissan",
+      "description": "."
+    },
+    {
+      "name": "fatti per te",
+      "description": "."
+    },
+    {
+      "name": "twisties",
+      "description": "."
+    },
+    {
+      "name": "viva",
+      "description": "."
+    },
+    {
+      "name": "tio rico",
+      "description": "."
+    },
+    {
+      "name": "fuze",
+      "description": "."
+    },
+    {
+      "name": "bankya",
+      "description": "."
+    },
+    {
+      "name": "coccolino",
+      "description": "."
+    },
+    {
+      "name": "sasko",
+      "description": "."
+    },
+    {
+      "name": "breeze",
+      "description": "."
+    },
+    {
+      "name": "un stoppables",
+      "description": "."
+    },
+    {
+      "name": "seagram's",
+      "description": "."
+    },
+    {
+      "name": "suave",
+      "description": "."
+    },
+    {
+      "name": "next",
+      "description": "."
+    },
+    {
+      "name": "bonaqua",
+      "description": "."
+    },
+    {
+      "name": "even & lovely",
+      "description": "."
+    },
+    {
+      "name": "sheamoisture",
+      "description": "."
+    },
+    {
+      "name": "nimbooz",
+      "description": "."
+    },
+    {
+      "name": "schwip schwap",
+      "description": "."
+    },
+    {
+      "name": "roar",
+      "description": "."
+    },
+    {
+      "name": "mastro lindo",
+      "description": "."
+    },
+    {
+      "name": "zwan",
+      "description": "."
+    },
+    {
+      "name": "copper kettle",
+      "description": "."
+    },
+    {
+      "name": "rin",
+      "description": "."
+    },
+    {
+      "name": "toddynho",
+      "description": "."
+    },
+    {
+      "name": "thums up",
+      "description": "."
+    },
+    {
+      "name": "stressballs",
+      "description": "."
+    },
+    {
+      "name": "adez",
+      "description": "."
+    },
+    {
+      "name": "chipsy",
+      "description": "."
+    },
+    {
+      "name": "kas",
+      "description": "."
+    },
+    {
+      "name": "spitz",
+      "description": "."
+    },
+    {
+      "name": "oasis",
+      "description": "."
+    },
+    {
+      "name": "hubert's lemonade",
+      "description": "."
+    },
+    {
+      "name": "fortident",
+      "description": "."
+    },
+    {
+      "name": "moxie",
+      "description": "."
+    },
+    {
+      "name": "sedal",
+      "description": "."
+    },
+    {
+      "name": "white star",
+      "description": "."
+    },
+    {
+      "name": "andrelon",
+      "description": "."
+    },
+    {
+      "name": "savora",
+      "description": "."
+    },
+    {
+      "name": "good humor",
+      "description": "."
+    },
+    {
+      "name": "chicharron americano jacks",
+      "description": "."
+    },
+    {
+      "name": "Conimex",
+      "description": "."
+    },
+    {
+      "name": "Calve",
+      "description": "."
+    },
+    {
+      "name": "Keri",
+      "description": "."
+    },
+    {
+      "name": "Liquid I V",
+      "description": "."
+    },
+    {
+      "name": "Inca kola",
+      "description": "."
+    },
+    {
+      "name": "Frisko",
+      "description": "."
+    },
+    {
+      "name": "Rocco",
+      "description": "."
+    },
+    {
+      "name": "Klondike",
+      "description": "."
+    },
+    {
+      "name": "Prodent",
+      "description": "."
+    },
+    {
+      "name": "Gudiz",
+      "description": "."
+    },
+    {
+      "name": "Liquifruit",
+      "description": "."
+    },
+    {
+      "name": "Elma chips",
+      "description": "."
+    },
+    {
+      "name": "Talenti",
+      "description": "."
+    },
+    {
+      "name": "Mr. proper",
+      "description": "."
+    },
+    {
+      "name": "Pibb xtra",
+      "description": "."
+    },
+    {
+      "name": "Laborica",
+      "description": "."
+    },
+    {
+      "name": "Fissan",
+      "description": "."
     },
     {
       "name": "lee",
